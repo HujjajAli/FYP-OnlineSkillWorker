@@ -1,0 +1,27 @@
+.bg-mynav
+{
+	box-shadow:0px 10px 10px rgba(0, 0, 0, .3);
+	
+	background-image: linear-gradient( 109.6deg,  rgba(119,44,232,1) 11.5%, rgba(119,44,232,1) 91.2% );
+}
+nav a{color: white;}
+.dash{
+box-shadow:0px 10px 10px rgba(0, 0, 0, .3);
+	font-weight: bold;
+	background-image: linear-gradient( 109.6deg,  rgba(119,44,232,1) 11.5%, rgba(119,44,232,1) 91.2% );
+}
+.dash a{color: white;}
+
+.panel1{background-color: #A94442;color: #F2DEDE;}
+.panel2{background-color: #31708F;color: #D9EDF7;}
+.panel3{background-color: #3C763D;color: #DFF0D8;}
+.panel4{background-color: #8A6D3B;color: #FCF8E3;}
+
+.panelfooter
+{
+	background-image: 
+	linear-gradient( 109.6deg, 
+ 	rgba(119,44,232,1) 11.5%, 
+	rgba(119,44,232,1) 91.2% );
+	color: white;font-weight:bold;
+}
